@@ -1,1 +1,1 @@
-![KarutaLab](assets/karutalab-logo-horizontal.png)
+![KarutaLab](assets/karutalab-logo-horizontal-banner.png)
